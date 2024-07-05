@@ -8,22 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi ! I am **Hangyu Cheng**, a third-year master student at Hunan University of Science and Technology.
+Hello ! I am **Qiqi Chen**, an undergraduate student in Hunan University of Science and Technology.
 
 ## Research Interest
-* Process Modeling
-* Process Mining
-* Natural Language Processing
+* Service Computing
+* Artificial Intelligence
+* Big Data
 
 ## Publications
 
-- **Hangyu Cheng**, Guosheng Kang*, Jianxun Liu, Yiping Wen, Buqing Cao, Zhen Wang. BPMN++: Comprehensive Business Process Modeling for Industrial Internet Application. International Symposium on Parallel and Distributed Processing with Applications. IEEE Computer Society, pp. 548-555, 2022.
-- **Hangyu Cheng**, Guosheng Kang*, Jianxun Liu, Yiping Wen, Buqing Cao, Bowen Liang. Task-role Performance Evaluation via Business Process Monitoring with BPMN Extension. International Conference on Service Science. IEEE Computer Society, pp. 181-187, 2022. (Best Student Paper Award) 
-- **程航宇**, 康国胜*, 刘建勋, 文一凭, 曹步清, 王祯. 基于BPMN的业务流程建模元素扩展机制. 计算机集成制造系统 2023: 1-12.
-- Jiayan Xiang, Guosheng Kang*, **Hangyu Cheng**, Jianxun Liu, Yiping Wen, Junhua Xu. Scalable and Optimal QoS-Aware Manufacturing Service Composition via Business Process Decomposition. Electronics, Vol. 12, No. 4, pp. 991-1008, 2023. 
-- Yang Wang, Jiayan Xiang, **Hangyu Cheng**, Wanjun Chen, Yong Xiao, Guosheng Kang*. Towards Dynamic Evolutionary Analysis of ProgrammableWeb for API-Mashup Ecosystem. International Conference on Computer Supported Cooperative Work in Design. 2023, Accepted
+- **Qiqi Chen**, Guosheng Kang*, Yamei Nie, Jianxun Liu, Buqing Cao. A General Complementary Web API Recommendation Framework based on Learning Model. IEEE International Conference on Web Services. IEEE Computer Society, 2024. (CCF-B)
+- Wanjun Chen, **Qiqi Chen**, Jiexun Shen, Guosheng Kang*, Jianxun Liu, Buqing Cao, Lihong Zhang. Interactive Web API Recommendation via Exploring Mashup-API Interactions and Functional Description Documents. International Conference on Computer Supported Cooperative Work in Design. IEEE Computer Society, pp. 121-126, 2024. (CCF-C) 
 
 ## Copyrights
 
--  康国胜, **程航宇**, 刘建勋, 文一凭. BPMN++一种基于BPMN扩展的业务流程建模工具软件, 2023.03.30, 计算机软件著作权, 登记号: 2023SR0417971, 中华人民共和国国家版权局
--  康国胜, 梁博文, 肖勇, **程航宇**. 面向ProgrammableWeb网站的Web服务爬虫系统, 2022.07.28, 计算机软件著作权, 登记号: 2022SR0974413, 中华人民共和国国家版权局
+-  康国胜, 李文, **陈琪琪**, 聂雅梅. 一种基于学习模型的Web API功能互补推荐方法, 2024.05.17, 发明专利, 申请号: 2024106176415, 中华人民共和国国家知识产权局
+-  **陈琪琪**, 邓子豪, 李宁, 刘娇萍, 李韬. 重要资产设备维保预警管理系统, 2024.06.03, 计算机软件著作权, 登记号: 2024R11L1303305, 中华人民共和国国家版权局
