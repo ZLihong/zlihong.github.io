@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiqi Chen (陈琪琪)"
+title                    : "Qiqi Chen (*77)"
 title_separator          : "-"
 name                     : &name "Qiqi Chen"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qiqi Chen"
+  name             : "Qiqi Chen (陈琪琪)"
   avatar           : "profile_cqq.jpg"
   bio              : "Undergraduate student majoring in Computer Science and Technology"
   location         : "China"
