@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## About Me
 
-Hello ! I am **Qiqi Chen**, an undergraduate student in Hunan University of Science and Technology. Codename "*77". In computing, the asterisk is used as a multiplication symbol. When you quickly press "×" and two "7" on a speech calculator, you can hear my Chinese name.
+Hello! I am **Qiqi Chen**, an undergraduate student in Hunan University of Science and Technology. Codename "*77". In computing, the asterisk is used as a multiplication symbol. When you quickly press "×" and two "7" on a speech calculator, you can hear my Chinese name.
 
 ## Research Interest
 
