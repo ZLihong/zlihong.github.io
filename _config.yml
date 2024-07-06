@@ -15,7 +15,7 @@ url                      : https://sevencqq.github.io # the base hostname & prot
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SEVENcqq/SEVENcqq.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : false # true, false (default) 
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "qiqichen0702@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
