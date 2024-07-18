@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qiqi Chen (陈琪琪)"
+  name             : "Lihong Zhang (章丽红)"
   avatar           : "profile_cqq.jpg"
-  bio              : "Undergraduate student majoring in Computer Science and Technology"
-  location         : "China"
+  bio              : "Undergraduate student in Hunan University of Science and Technology"
+  location         : "China Hunan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "qiqichen0702@gmail.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "zlhy04@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SEVENcqq"
+  github           : "Zlihong"
   google_plus      :
   keybase          :
   instagram        :
