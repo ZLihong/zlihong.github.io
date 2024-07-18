@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dear friends,  I am **Lihong Zhang**, an undergraduate student at Hunan University of Science and Technology, welcome to my small world, let us explore the infinite possible !
+Dear friends,  I am **Lihong Zhang**, an undergraduate student at Hunan University of Science and Technology, welcome to my small world, let us explore the infinite possible !If you have any questions, welcome to contact with me !
 ## Research Interest
 ------
 + Service Computing
