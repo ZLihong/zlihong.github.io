@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Qiqi Chen (*77)"
+locale                   : "China Hunan"
+title                    : "Lihong Zhang"
 title_separator          : "-"
-name                     : &name "Qiqi Chen"
+name                     : &name "Lihong Zhang"
 description              : &description "personal description"
-url                      : https://sevencqq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zlihong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SEVENcqq/SEVENcqq.github.io"
+repository               : "Zlihong/zlihong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) 
 words_per_minute         : 160
