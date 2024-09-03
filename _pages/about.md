@@ -14,7 +14,7 @@ redirect_from:
 + 服务推荐
 + 自然语言处理
 
-## Publications
+## Publicationss
 ------
 + **Lihong Zhang**, Jing He, Yamei Nie, Xiaokang Zhou, Qiqi Chen, Guosheng Kang*. JMF‑SS: Joint
 Matrix Factorization for Web API Recommendation with Mashup‑Mashup Similarities and API‑
